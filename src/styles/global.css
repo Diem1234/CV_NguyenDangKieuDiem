@@ -25,18 +25,27 @@ body {
 }
 /*part left*/
 .leftRight {
-  background-color: white;
+  background-color: rgb(242, 255, 250);
   width: 33%;
   margin: 16px 5px;
-  max-height: 1075px;
+  min-height: 1075px;
   box-shadow: 3px 3px 5px 4px gray;
 }
-.Top img {
-  width: 100%;
-}
+/* .Top img {
+  width: 50%;
+  margin: 0 auto;
+} */
 .jane {
-  margin: -50px 0 0 20px;
+  margin: -30px 10px 0 10px;
+  padding: 40px 10px 10px 10px;
+  text-align: center;
   font-size: 27px;
+  background-color: rgb(28, 115, 101);
+  background-position: fixed;
+  border-radius: 10px;
+  /* position: fixed;
+  z-index: 40px;
+  top: auto; */
 }
 /* Skills*/
 .partTwo {
@@ -51,8 +60,8 @@ i {
   font-size: 20px;
 }
 hr {
-  color: lightgray;
-  margin: 0 30px;
+  color: lightgray 10px;
+  margin: 3px 30px;
 }
 .star {
   font-size: 20px;
@@ -61,6 +70,7 @@ hr {
 .outside {
   background-color: lightgray;
   border-radius: 15px;
+  margin-bottom: 3px;
 }
 .inside {
   background-color: teal;
@@ -79,6 +89,9 @@ hr {
 #fifty {
   width: 50%;
 }
+#sevty {
+  width: 70%;
+}
 #one-hundred {
   width: 100%;
 }
@@ -87,6 +100,9 @@ hr {
 }
 #tweny-five {
   width: 25%;
+}
+#tweny {
+  width: 20%;
 }
 /*part right*/
 .rightLeft {

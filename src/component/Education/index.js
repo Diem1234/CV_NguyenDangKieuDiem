@@ -5,33 +5,21 @@ const Education = () => {
     <div className="partRight">
       <div className="com">
         <h2 className="icon">
-          <i className="fa"></i>Education
+          <i className="fa"></i>Học Vấn
         </h2>
       </div>
       <br />
       <div className="com">
-        <h5>W3Schools.com</h5>
+        <h5>CÔNG NGHỆ THÔNG TIN (2020 - 2024)</h5>
         <h6>
-          <i className="fa"></i>Forever
+        <i className="fa"></i>Trường Đại học Sư phạm Kỹ thuật Đà Nẵng
         </h6>
-        <p>Web Development! All I need to know in one place</p>
+        <ul type="circle">
+          <li>Điểm tổng kết học phần: 3.32</li>
+          <li>Xếp loại: Giỏi</li>
+        </ul>
       </div>
-      <hr />
-      <div className="com">
-        <h5>London Business School</h5>
-        <h6>
-          <i className="fa"></i>2013 - 2015
-        </h6>
-        <p>Master Degree</p>
-      </div>
-      <hr />
-      <div className="com">
-        <h5>School of Coding</h5>
-        <h6>
-          <i className="fa"></i>2010 - 2013
-        </h6>
-        <p className="end">Bachelor Degree</p>
-      </div>
+      <br />
     </div>
   );
 };

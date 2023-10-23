@@ -11,38 +11,16 @@ const Activities = () => {
       </div>
       <br />
       <div className="com">
-        <h5>Front End Developer / w3schools.com</h5>
         <h6>
-          <i className="fa"></i>Jan 2015 - <span>Current</span>
+          <i className="fa"></i>Trường Đại học Sư phạm Kỹ thuật Đà Nẵng
         </h6>
-        <p>
-          Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in
-          deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta
-          ea et odio, unde doloremque repellendus iure, iste.
-        </p>
+        <ul type="circle">
+          <li>Tham gia các hoạt động ngày hội của trường.</li>
+          <li>Tham gia Mùa hè xanh do địa phương tổ chức</li>
+          <li>Tình nguyện viên hiến máu nhân đạo</li>
+        </ul>
       </div>
-      <hr />
-      <div className="com">
-        <h5>Web Developer / something.com</h5>
-        <h6>
-          <i className="fa"></i>Mar 2012 - Dec 2014
-        </h6>
-        <p>
-          Consectetur adipisicing elit. Praesentium magnam consectetur vel in
-          deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta
-          ea et odio, unde doloremque repellendus iure, iste.
-        </p>
-      </div>
-      <hr />
-      <div className="com">
-        <h5>Graphic Designer / designsomething.com</h5>
-        <h6>
-          <i className="fa"></i>Jun 2010 - Mar 2012
-        </h6>
-        <p className="end">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        </p>
-      </div>
+      <br/>
     </div>
   )
 }
