@@ -6,7 +6,7 @@ const WorkExperience = () => {
       {/*write experience*/}
       <div className="com">
         <h2 className="icon">
-          <i className="fa"></i>Dự Án
+          <i className="fa"></i>Dự án
         </h2>
       </div>
       <br />

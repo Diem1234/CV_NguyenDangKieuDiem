@@ -5,7 +5,7 @@ const Education = () => {
     <div className="partRight">
       <div className="com">
         <h2 className="icon">
-          <i className="fa"></i>Học Vấn
+          <i className="fa"></i>Học vấn
         </h2>
       </div>
       <br />

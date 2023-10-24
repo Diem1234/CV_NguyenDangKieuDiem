@@ -5,7 +5,7 @@ const Skills = () => {
     <div>
         <p className="star">
                   <i className="fa"></i>
-                  <b>Kỹ Năng</b>
+                  <b>Kỹ năng</b>
                 </p>
                 <p>Khả năng giao tiếp</p>
                 <div className="outside ">
@@ -27,8 +27,8 @@ const Skills = () => {
                 </div>
                 <p>CSS</p>
                 <div className="outside">
-                  <div className="inside center" id="seventy-five">
-                    75%
+                  <div className="inside center" id="sevty">
+                    70%
                   </div>
                 </div>
                 <p>ReactJS</p>
